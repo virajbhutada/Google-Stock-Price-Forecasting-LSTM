@@ -1,3 +1,4 @@
+
 ## Google Stock Analysis 📊 & Prediction Using LSTM 📈
 
 In this comprehensive project, we explore Google's stock market data, analyzing patterns and fluctuations, and utilizing LSTM (Long Short-Term Memory) networks to predict future stock prices. This analysis aims to provide insightful and informed decision-making tools.
